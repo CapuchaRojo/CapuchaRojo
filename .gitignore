@@ -1,0 +1,6 @@
+# Ignore node_modules, logs, and system files
+node_modules/
+logs/
+*.log
+.DS_Store
+.vscode/
